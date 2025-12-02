@@ -1,4 +1,4 @@
-# LLM Council
+# Mind Merge
 
 ![llmcouncil](header.jpg)
 
